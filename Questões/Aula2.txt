@@ -1,9 +1,24 @@
 
 1.Por que o Linux recebeu esse nome?
+Resposta:
+Porque surgiu da mistura de Linus mais Unix. Linus é o nome do seu criador e unix o nome de um sistema operacional.
+
 2.O que são daemons?
+Resposta:
+Uma Daemon controla(inicia, reinicia, para e etc) um serviço provido por ser sistema.
+
 3.O que é o shell?
+Resposta:
+O intérprete de comandos é a interfáce entre o usuário e o sistema e por isso que é chamado de shell(Concha).
+
 4.Por que é importante evitar executar o terminal como super-usuário?
+Resposta:
+É para que o usuário não use o sistema operacional sem senha e assim os seus dados ficarem expostos.
+
 5.Qual botão do teclado completa o que o usuário escreve no terminal, de acordo com o contexto?
+Resposta:
+
+
 6.Quais botões do teclado apresentam instruções escritas anteriormente?
 7.Apresente os respectivos comandos no terminal para: 
 (a) Obter mais informações sobre um comando. 
