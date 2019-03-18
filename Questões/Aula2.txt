@@ -17,9 +17,12 @@ Resposta:
 
 5.Qual botão do teclado completa o que o usuário escreve no terminal, de acordo com o contexto?
 Resposta:
-
+TAB.
 
 6.Quais botões do teclado apresentam instruções escritas anteriormente?
+Resposta:
+As setas para cima e para baixo.
+
 7.Apresente os respectivos comandos no terminal para: 
 (a) Obter mais informações sobre um comando. 
 (b) Apresentar uma lista com os arquivos dentro de uma pasta. 
