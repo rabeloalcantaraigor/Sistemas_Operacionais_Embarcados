@@ -1,9 +1,9 @@
-1. Considere um MSP430 sendo usado para leituras analÛgicas. O Raspberry Pi est· conectado a ele via I2C, e È o mestre. O MSP430
+1. Considere um MSP430 sendo usado para leituras anal√≥gicas. O Raspberry Pi est√° conectado a ele via I2C, e √© o mestre. O MSP430
 foi programado para funcionar da seguinte forma:
-O MSP430 recebe o byte 0x55, o que indica o comeÁo de convers„o.
-100us depois, o MSP430 envia o byte menos significativo e o mais significativo da convers„o de 10 bits, nesta ordem.
-Escreva o cÛdigo para o Raspberry Pi executar este protocolo, de forma a obter conversıes a cada 10 ms. A cada 1 segundo ele 
-deve apresentar no terminal a mÈdia das ˙ltimas 100 amostras.
+O MSP430 recebe o byte 0x55, o que indica o come√ßo de convers√£o.
+100us depois, o MSP430 envia o byte menos significativo e o mais significativo da convers√£o de 10 bits, nesta ordem.
+Escreva o c√≥digo para o Raspberry Pi executar este protocolo, de forma a obter convers√µes a cada 10 ms. A cada 1 segundo ele 
+deve apresentar no terminal a m√©dia das √∫ltimas 100 amostras.
 
 Resposta:
 
